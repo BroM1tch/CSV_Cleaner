@@ -1,0 +1,7 @@
+Name,Email, Age ,City
+Alice,alice@example.com,25,Montreal
+Bob,bob@example.com, ,Quebec
+Bob,bob@example.com, ,Quebec
+
+,,,
+Charlie,charlie@example.com,30,Montreal
