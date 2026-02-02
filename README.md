@@ -93,4 +93,4 @@ Python | Automation | Data Tools
 
 LICENSE
 
-MIT (or later)
+MIT
